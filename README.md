@@ -1,8 +1,13 @@
-   <!-- <img alt="html5" src="./assets/banner1.png" /> -->
+<p align="center"><img alt="html5" src="https://res.cloudinary.com/dlzv0akpc/image/upload/v1763499214/mern-img_xufwvp.jpg" /> </p>
+
+
+# Hi there!, I'm Fahim Haowlader
+
+## **MERN Stack Developer**
 
 ## About Me 
 
-Hi there! I’m <b>Fahim Haowlader </b>, a MERN Stack Developer crafting <b>Full-stack</b> experiences from pixels to databases.
+ I’m a second-year, first-semester MAT student at <b>SUST</b>, and my hometown is <b>Dhaka</b>. I’m passionate about web development and <b>Full-stack</b> technologies, and I enjoy building projects that solve real-world problems while improving my skills.
 
 <b>I enjoy:</b> <br>
 🌿 Designing React interfaces that feel alive <br>
