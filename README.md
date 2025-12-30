@@ -1,4 +1,4 @@
-<p align="center"><img alt="html5" src="https://res.cloudinary.com/dlzv0akpc/image/upload/v1763499214/mern-img_xufwvp.jpg" /> </p>
+<p align="center"><img alt="html5" src="https://res.cloudinary.com/dlzv0akpc/image/upload/v1767114287/Black_And_Grey_Professional_Technology_LinkedIn_Banner_1_icmite.png" /> </p>
 
 
 # Hi there!, I'm Fahim Haowlader
@@ -40,6 +40,6 @@
 ## Contact
 Feel free to reach out to me or connect with me on:  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-fahim-647773261/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahimhaowlader07@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahimhaowlader/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahimhaowlader07@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/FahimHaowladerJahid)
 
 Let's connect and discuss exciting opportunities!
